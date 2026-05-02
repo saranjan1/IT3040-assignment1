@@ -1,0 +1,3 @@
+file_type,file_path,preview_detected,status,screenshot
+PNG,D:\test_automation_ui\sample.png,TRUE,PASS,D:\test_automation_ui\results\preview_pass.png
+PNG,C:\Users\saraa\Downloads\Assignment1_Complete_Deliverables\test_automation_ui\sample.png,True,PASS,C:\Users\saraa\Downloads\Assignment1_Complete_Deliverables\test_automation_ui\results\preview_pass.png
